@@ -1,6 +1,6 @@
 # RecoFlix 🎬
 
-RecoFlix is a real-time movie recommendation web application built using Streamlit and the TMDB API.
+RecoFlix is a real-time movie discovery and recommendation web application built using Streamlit and the TMDB API, designed to help users explore popular, trending, and similar movies through an intuitive interface.
 
 ## Features
 - Browse popular movies
@@ -17,5 +17,5 @@ RecoFlix is a real-time movie recommendation web application built using Streaml
 ## Live Demo
 👉 https://recoflix.streamlit.app/
 
-## Note
+## API Disclaimer
 RecoFlix uses the free TMDB API. Occasional missing posters or empty results may occur due to API limitations, so please be a lil patient!
