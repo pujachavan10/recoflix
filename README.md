@@ -67,14 +67,18 @@ Future enhancements could include:
 ### Homescreen
 ![Home](home.png)
 
+
 ### Trending Movies
 ![Trending](trending.png)
+
 
 ### Discover Movies
 ![Genre](popular.png)
 
+
 ### Search Movies
 ![Name Search](search.png)
+
 ---
 
 # ⚠ API Disclaimer
