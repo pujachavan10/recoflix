@@ -65,17 +65,16 @@ Future enhancements could include:
 ## 🖼 Screenshots
 
 ### Homescreen
-<img width="1911" height="905" alt="Screenshot 2026-01-27 013536" src="https://github.com/user-attachments/assets/75412835-6957-4882-945c-25828dd1ca39" />
+![Home](home.png)
 
 ### Trending Movies
-<img width="1911" height="893" alt="Screenshot 2026-01-27 013614" src="https://github.com/user-attachments/assets/c75c1e2d-c424-4a7f-8d19-fb790b06feb7" />
+![Trending](trending.png)
 
 ### Discover Movies
-<img width="1907" height="878" alt="Screenshot 2026-01-27 013645" src="https://github.com/user-attachments/assets/949949aa-04e3-46b7-842f-a4e18f80dabb" />
+![Genre](popular.png)
 
 ### Search Movies
-<img width="1919" height="861" alt="Screenshot 2026-01-27 013711" src="https://github.com/user-attachments/assets/9a1d27e1-2ff3-452d-99c0-95093f260cb4" />
-
+![Name Search](search.png)
 ---
 
 # ⚠ API Disclaimer
